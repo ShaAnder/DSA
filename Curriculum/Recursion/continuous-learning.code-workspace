@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "continuous-learning",
+			"path": "../../../..",
+		},
+		{
+			"name": "Mentor-Me",
+			"path": "../../../../../Mentor-Me",
+		},
+		{
+			"name": "fitforge",
+			"path": "../../../../../../Portfolio_Projects/native/fitforge",
+		},
+		{
+			"name": "ping_me_2026_rebuild",
+			"path": "../../../../../../Portfolio_Projects/next.js/ping_me_2026_rebuild",
+		},
+		{
+			"name": "reactDiver",
+			"path": "../../../../../../Portfolio_Projects/react/reactDiver",
+		},
+	],
+	"settings": {},
+}
